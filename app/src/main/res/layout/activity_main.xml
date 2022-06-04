@@ -17,9 +17,10 @@
 
 
         <Button
+            android:id="@+id/buttontest"
             android:layout_width="170dp"
             android:layout_height="70dp"
-            android:text="Sudipta"
+            android:text="Sudipta Pan"
             android:textColor="@color/white"
             android:textSize="20dp"
            >
