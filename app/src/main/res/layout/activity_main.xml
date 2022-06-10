@@ -20,7 +20,7 @@
             android:id="@+id/buttontest"
             android:layout_width="170dp"
             android:layout_height="70dp"
-            android:text="Sudipta Pan Test"
+            android:text="Sudipta Pan Test ssss"
             android:textColor="@color/white"
             android:textSize="20dp"
            >
