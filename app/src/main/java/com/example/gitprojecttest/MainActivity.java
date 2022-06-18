@@ -25,5 +25,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+        buttontest.setText("new code");
+
+        //
+
+
+
+
     }
 }
