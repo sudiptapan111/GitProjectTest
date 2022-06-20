@@ -24,8 +24,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+     //
         buttontest.setText("new code");
+
+        //
+
+        buttontest.setText("new code myself test");
 
         //
 
